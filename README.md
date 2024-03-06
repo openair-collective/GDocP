@@ -1,7 +1,17 @@
 # Documentation Standards for OpenAir Projects
 Good documentation practice for OpenAir open hardware projects. _This repository is a work in progress!_
 
-# A checklist for your repository
+# A checklist for ensuring your repository's documentation is complete (adapted from www.doi.org/10.5281/zenodo.3364474)
+- [ ] Is the subject of the submission under an open source license? Are design files in the preferred format for making modifications as defined by the Open Source Hardware definition? (https://www.oshwa.org/definition/)
+- [ ] Can the hardware be reproduced with the details provided in the submission?
+- [ ] Are all relevant design files availablein the repository? Are they described in a README, and clearly documented? (E.g., descriptive file names, commented code, labeled images, etc.) 
+- [ ] Are visual instructions used when necessary?
+- [ ] Is the utility of the hardware to the scientific community explained clearly? Has a specific scientific application been demonstrated using the hardware?
+- [ ] Is the performance of the hardware adequately demonstrated and characterized? (Are data demonstrating the hardware performance, such as .csv files, lab notes and graphs, included in the repository or posted to a FAIR repository and cited?)
+- [ ] Are all potential safety concerns addressed?
+
+
+# A checklist for making your repository FAIR and cross-referenced
 - [ ] Make sure your repository is ready to share openly and permanently
 - [ ] Make sure your README is clear and includes the OpenAir logo and a clear statement of what your project does and what its state of development is
 - [ ] Pick an open hardware license at www.choosealicense.org and save it as a *License.txt* file
@@ -13,7 +23,9 @@ Good documentation practice for OpenAir open hardware projects. _This repository
 - [ ] Add authorship information to Zenodo repository, including ORCIDs for all authors and contributors
 - [ ] Add your Zenodo repository to the OpenAir Zenodo community
 - [ ] Add a `CITATION.cff` file to your Github repository which includes the Zenodo DOI
-- [ ] Add the DOI badge for your repository to Zenodo
+- [ ] Add the DOI badge for your repository to Github. (You can copy Markdown code for this from the right sidebar on Zenodo)
+- [ ] Add the correct hardware license to the metadata of your Zenodo repository
+- [ ] If applicable, add relevant funding sources (e.g., NSF grants) to the metadata of your Zenodo repository
 - [ ] _OPTIONAL:_ Apply to the Open Source Hardware Association for an OSHWA ID. (That isn't implemented in this repository because it isn't hardware, but you can see an example here: https://certification.oshwa.org/us002582.html)
 - [ ] _OPTIONAL:_ If you receive an OSHWA ID, add the logo to your README on Github and add the number to your Zenodo repository as an Alternate Identifier.
 
@@ -30,4 +42,3 @@ Good documentation practice for OpenAir open hardware projects. _This repository
 
 ## CITATION.cff File
 
-# Exemplars
