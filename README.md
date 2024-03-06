@@ -1,17 +1,17 @@
 # Documentation Standards for OpenAir Projects
 Good documentation practice for OpenAir open hardware projects. _This repository is a work in progress!_
 
-# A checklist for ensuring your repository's documentation is complete (adapted from www.doi.org/10.5281/zenodo.3364474)
-- [ ] Is the subject of the submission under an open source license? Are design files in the preferred format for making modifications as defined by the Open Source Hardware definition? (https://www.oshwa.org/definition/)
-- [ ] Can the hardware be reproduced with the details provided in the submission?
-- [ ] Are all relevant design files availablein the repository? Are they described in a README, and clearly documented? (E.g., descriptive file names, commented code, labeled images, etc.) 
+### A checklist for ensuring your repository's documentation is complete (adapted from [_HardwareX_](www.doi.org/10.5281/zenodo.3364474))
+- [ ] Is the subject of the submission under an open source license? Are design files in the preferred format for making modifications as defined by the [Open Source Hardware definition](https://www.oshwa.org/definition/)?
+- [ ] Can the hardware be reproduced with the details provided in the repository?
+- [ ] Are all relevant design files available in the repository? Are they described in a README, and clearly documented? (E.g., descriptive file names, commented code, labeled images, etc.) 
 - [ ] Are visual instructions used when necessary?
 - [ ] Is the utility of the hardware to the scientific community explained clearly? Has a specific scientific application been demonstrated using the hardware?
 - [ ] Is the performance of the hardware adequately demonstrated and characterized? (Are data demonstrating the hardware performance, such as .csv files, lab notes and graphs, included in the repository or posted to a FAIR repository and cited?)
 - [ ] Are all potential safety concerns addressed?
 
 
-# A checklist for making your repository FAIR and cross-referenced
+### A checklist for making your repository FAIR and cross-referenced
 - [ ] Make sure your repository is ready to share openly and permanently
 - [ ] Make sure your README is clear and includes the OpenAir logo and a clear statement of what your project does and what its state of development is
 - [ ] Pick an open hardware license at www.choosealicense.org and save it as a *License.txt* file
