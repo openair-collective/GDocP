@@ -1,7 +1,7 @@
 # Documentation Standards for OpenAir Projects
 Good documentation practice for OpenAir open hardware projects. _This repository is a work in progress!_
 
-### A checklist for ensuring your repository's documentation is complete (adapted from [_HardwareX_](www.doi.org/10.5281/zenodo.3364474))
+### A checklist for ensuring your repository's documentation is complete (adapted from [_HardwareX_](https://www.doi.org/10.5281/zenodo.3364474))
 - [ ] Is the subject of the submission under an open source license? Are design files in the preferred format for making modifications as defined by the [Open Source Hardware definition](https://www.oshwa.org/definition/)?
 - [ ] Can the hardware be reproduced with the details provided in the repository?
 - [ ] Are all relevant design files available in the repository? Are they described in a README, and clearly documented? (E.g., descriptive file names, commented code, labeled images, etc.) 
