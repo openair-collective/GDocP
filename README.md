@@ -1,4 +1,4 @@
-# Documentation Standards for OpenAir Projects
+# Documentation Practice for OpenAir Projects
 Good documentation practice for OpenAir open hardware projects. _This repository is a work in progress!_
 
 ### A checklist for ensuring your repository's documentation is complete 
@@ -11,10 +11,12 @@ This checklist is adapted from the article templates for [_HardwareX_](https://w
 - [ ] Is the utility of the hardware to the scientific community explained clearly? Has a specific scientific application been demonstrated using the hardware?
 - [ ] Is the performance of the hardware adequately demonstrated and characterized? (Are data demonstrating the hardware performance, such as .csv files, lab notes and graphs, included in the repository or posted to a FAIR repository and cited?)
 - [ ] Are all potential safety concerns addressed?
+- [ ] Has all [personally identifiable information (PII)](https://www.ibm.com/topics/pii) and sensitive information (such as passwords) been removed?
+- [ ] Are all comments and inline notes necessary and [appropriate](https://retractionwatch.com/2014/11/11/overly-honest-references-should-we-cite-the-crappy-gabor-paper-here/)? Keep in mind that the repository will be *permanent.*
 
 
 ### A checklist for making your repository FAIR and cross-referenced
-- [ ] Make sure your repository is ready to share openly and permanently
+- [ ] Make sure your repository is ready to share openly and permanently (see notes on PII, comments above)
 - [ ] Make sure your README is clear and includes the OpenAir logo and a clear statement of what your project does and what its state of development is
 - [ ] Pick an open hardware license at https://www.choosealicense.org and save it as a *License.txt* file
 - [ ] Add your repository to the OpenAir Github Community
