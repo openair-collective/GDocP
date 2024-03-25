@@ -33,16 +33,30 @@ This checklist is adapted from the article templates for [_HardwareX_](https://w
 - [ ] _OPTIONAL:_ Apply to the Open Source Hardware Association for an OSHWA ID. (That isn't implemented in this repository because it isn't hardware, but you can see an example here: https://certification.oshwa.org/us002582.html)
 - [ ] _OPTIONAL:_ If you receive an OSHWA ID, add the logo to your README on Github and add the number to your Zenodo repository as an Alternate Identifier.
 
+## Links and Terms of Art
 
-## Logos and Badges
+### CITATION.cff File
+See this link to learn more about citation files: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files
 
-## Licensing
+### DOI
+"DOI" stands for "Digital Object Identifier." Learn more here: https://www.doi.org/the-identifier/what-is-a-doi/
+You can think of a DOI as being similar to an International Standard Book Number (ISBN), but for any digital object. It can reference a dataset, a journal paper, a Github repository, etc. Different versions of the same project can also have different DOIs, so that you can reference a specific version. 
 
-## FAIR Data
+### FAIR Data
+FAIR is a grassroots standard for science data. The initalism stands for Findable, Accessible, Interoperable and Reusable. 
+Learn more here: https://www.go-fair.org/fair-principles/
 
-## ORCIDs and DOIs
+### Logos and Badges
+OpenAir logos can be found in this repository. You can embed them in your README file. 
+Badges (see https://shields.io/badges) are a great way to encode information, including Zenodo DOIs. 
 
-## OSHWA UID
+### Licensing
+A good open source project should have an open source license! There are many available which cover all kinds of use cases for software and hardware. Check out https://choosealicense.com/ for a guide on how to pick the right license for your project. Once you have a license that fits, copy it into your Github repository as a LICENSE.txt file. You'll notice that this automatically creates a License tab next to the README tab, and that the license you have chosen will appear in the top right sidebar on Github. 
 
-## CITATION.cff File
+### ORCIDs
+Just as DOIs are a persistent identifier for digital objects, ORCID is a persistent identifier for people. This can be useful for you as a researcher to track your publications and work over time. It also helps affirm your authorship if you have a common name or if you change your name. All OpenAir participants are encouraged to get an ORCID, because it helps us to track contributions. Learn more at https://orcid.org/.
+
+### OSHWA UID
+The Open Source Hardware Association (OSHWA) provides their own identifier system for open hardware projects. You can apply for an OSHWA UID here: https://application.oshwa.org/
+
 
