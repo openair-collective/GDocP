@@ -1,6 +1,7 @@
 # Documentation Practice for OpenAir Projects
 Good documentation practice for OpenAir open hardware projects. _This repository is a work in progress!_
 
+## Checklists
 ### A checklist for ensuring your repository's documentation is complete 
 This checklist is adapted from the article templates for [_HardwareX_](https://www.doi.org/10.5281/zenodo.3364474).
 - [ ] Is the subject of the submission under an open source license?
@@ -47,7 +48,9 @@ FAIR is a grassroots standard for science data. The initalism stands for Findabl
 Learn more here: https://www.go-fair.org/fair-principles/
 
 ### Logos and Badges
-OpenAir logos can be found in this repository. You can embed them in your README file. 
+OpenAir logos can be found in this repository. You can embed them in your README file, like this:
+![image](https://github.com/openair-collective/openair-documentation/blob/main/images/openair_logo_long_dark.png?raw=true)
+
 Badges (see https://shields.io/badges) are a great way to encode information, including Zenodo DOIs. 
 
 ### Licensing
